@@ -3,6 +3,7 @@
 $unusedVariable = "This is an unused variable.";
 
 echo 'youness';
+echo 'test2';
 // Issue 2: Unused function
 function unusedFunction() {
     echo "This function is never called.";
