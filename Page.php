@@ -1,6 +1,8 @@
 <?php
 // Issue 1: Unused variable
 $unusedVariable = "This is an unused variable.";
+
+$var7='hhhhhhhhhhhh';
 // Issue 2: Unused function
 function unusedFunction() {
     echo "This function is never called.";
