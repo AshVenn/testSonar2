@@ -2,6 +2,7 @@
 // Issue 1: Unused variable
 $unusedVariable = "This is an unused variable.";
 
+echo 'youness';
 // Issue 2: Unused function
 function unusedFunction() {
     echo "This function is never called.";
